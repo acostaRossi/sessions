@@ -1,0 +1,13 @@
+.container {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+#btn-start-session {
+    background-color: green;
+    color: white;
+}
+#btn-destroy-session {
+    background-color: red;
+    color: white;
+}
